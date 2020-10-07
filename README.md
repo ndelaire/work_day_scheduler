@@ -6,7 +6,6 @@ Homework 5
 
 ## Table of Contents
 * Project Overview
-* JavaScript
 * Frameworks
 * License
 * Contact
